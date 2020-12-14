@@ -1,2 +1,2 @@
 # scripts
-scripts for linux
+scripts for linux ubuntu server and linux desktop
