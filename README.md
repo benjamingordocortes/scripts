@@ -1,2 +1,3 @@
 # scripts
-scripts for linux ubuntu server and linux desktop
+script con bash funcionable en Ubuntu version de servidor y version de escritorio
+
