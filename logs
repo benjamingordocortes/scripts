@@ -1,0 +1,4 @@
+for i in $(ls p*); do
+cat $i > /home/benja/Escritorio/pruebas
+sleep 2
+done
