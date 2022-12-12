@@ -4,7 +4,7 @@ sudo bash -c "cat $i > BAKS/$i"
 echo "copia completada" $i
 sudo bash -c "echo '' > $i"
 echo "comprimiendo archivo" $i
-gzip -9 BAKS/$i
+sudo gzip -9 BAKS/$i
 mv BAKS/$i.gz BAKS/$(date "+%H.%M:%d%m%y")$i.BAK.gz
 echo "finalizado " $i 
 echo "############################################"
